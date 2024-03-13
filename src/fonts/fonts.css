@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Trajan Pro";
+  src: url(./Trajan\ Pro.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Trajan Pro Bold";
+  src: url(./TrajanPro-Bold.otf) format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "PTSans";
+  src: url(./PTSans-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "PTSansBold";
+  src: url(./PTSans-Bold.ttf) format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "PTSansItalic";
+  src: url(./PTSans-Italic.ttf) format("truetype");
+  font-style: italic;
+}
